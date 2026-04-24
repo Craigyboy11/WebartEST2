@@ -1,25 +1,23 @@
 {
-  "imagePath": "image-targets/toggle-slam_luminance.png",
-  "resources": {
-    "originalImage": "toggle-slam_original.png",
-    "croppedImage": "toggle-slam_cropped.png",
-    "thumbnailImage": "toggle-slam_thumbnail.png",
-    "geometryImage": "toggle-slam_geometry.png",
-    "luminanceImage": "toggle-slam_luminance.png"
-  },
+  "imagePath": "image-targets/toggle-slam_luminance.jpg",
+  "metadata": null,
   "name": "toggle-slam",
   "type": "PLANAR",
   "properties": {
-    "top": 85,
+    "top": 56,
     "left": 0,
-    "width": 1024,
-    "height": 1365,
-    "isRotated": true,
-    "originalWidth": 1024,
-    "originalHeight": 1536
+    "width": 1389,
+    "height": 1852,
+    "isRotated": false,
+    "originalWidth": 1389,
+    "originalHeight": 1963
   },
-  "userMetadataIsJson": true,
-  "loadAutomatically": true,
-  "created": 1752602517654,
-  "updated": 1752602530117
+  "resources": {
+    "originalImage": "toggle-slam_original.jpg",
+    "croppedImage": "toggle-slam_cropped.jpg",
+    "thumbnailImage": "toggle-slam_thumbnail.jpg",
+    "luminanceImage": "toggle-slam_luminance.jpg"
+  },
+  "created": 1777029017572,
+  "updated": 1777029017572
 }
